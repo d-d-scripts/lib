@@ -8,7 +8,7 @@ AddCSLuaFile("helper.lua")
 
 --USAGE:   player:AddNote( "message" )
 function _R.Player:AddNote( message )
-	umsg.Start("notify", self);
-          umsg.String(message);
-     umsg.End();
+    umsg.Start( "notify", self );
+      umsg.String( message );
+        umsg.End();
 end;
