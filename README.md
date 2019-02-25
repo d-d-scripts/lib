@@ -1,8 +1,10 @@
 # DDLib
 This is required for all our scripts.
-If you are having issues please contact either Graham or David on GmodStore 
-(https://www.gmodstore.com/teams/3101/members)
 
 
+Instalation: 
+1. Download
+2. Extract
+3. Add to addons folder
 
-(Will be updated!)
+(Not finale version)
